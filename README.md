@@ -1,6 +1,6 @@
 # Ray Tracer
 
-A small C++ path tracer built from scratch.
+A small C++ ray tracer built from scratch.
 
 ## Materials
 
